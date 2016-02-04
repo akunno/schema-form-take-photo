@@ -23,8 +23,7 @@
     "test",
     "coverage"
   ],
-  "devDependencies": {
-    "angular-schema-form": ">= 0.7",
-    "angular-mocks": ">= 1.2"
+  "dependencies": {
+    "angular-schema-form": ">= 0.7"
   }
 }
