@@ -1,0 +1,14 @@
+{
+  "name": "schema-form-take-photo",
+  "version": "0.1.0",
+  "description": "take photo upload add-on for schema form",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-angular-templatecache": "^1.2.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-jscs": "^1.1.0",
+    "gulp-minify-html": "^0.1.1",
+    "gulp-uglify": "^0.2.1"
+  }
+}

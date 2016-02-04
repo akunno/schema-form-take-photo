@@ -1,0 +1,30 @@
+{
+  "name": "schema-form-take-photo",
+  "main": [
+    "schema-form-take-photo.min.js"
+  ],
+  "version": "0.1.0",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular-schema-form",
+    "schema-form",
+    "form",
+    "json",
+    "json-schema",
+    "schema"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "coverage"
+  ],
+  "devDependencies": {
+    "angular-schema-form": ">= 0.7",
+    "angular-mocks": ">= 1.2"
+  }
+}
